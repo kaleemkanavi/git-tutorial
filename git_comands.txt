@@ -1,0 +1,36 @@
+Initilize Empty Reposiotry
+git init
+
+Check file status
+git status
+
+Add files for tracking
+git add .
+
+Commit files
+git commit -m "commit_message"
+
+Add remote origin
+git remote add origin "remote_url"
+
+Push to branch
+git push origin branch name
+
+Clone from repository
+git clone remote_url 
+
+Check for commit history
+git log
+
+reset commit history
+git reset commit_hash
+
+Clone from specific branch
+git clone -b branch_name remote_url
+
+Create Branch
+git switch --create branch_name
+
+Switch to different branch
+git switch branch_name
+
